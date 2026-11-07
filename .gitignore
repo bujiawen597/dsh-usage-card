@@ -1,0 +1,6 @@
+# Generated preview page (build it with `node preview/build.mjs`).
+preview/card.html
+
+# Packed artifacts
+*.tgz
+node_modules/

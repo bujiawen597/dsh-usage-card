@@ -1,0 +1,6 @@
+# dsh-usage-card bundle patch: one host row that carries the browser half.
+# The host half is an empty `apply`; the card itself ships through
+# package.json's `dsh.client` declaration and `./client`.
+- insert:
+    - id: usage-card
+      name: 'dsh-usage-card'
